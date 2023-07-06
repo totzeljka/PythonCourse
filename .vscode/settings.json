@@ -1,0 +1,8 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "terminal.integrated.allowChords": true,
+    "terminal.integrated.allowMnemonics": true
+}
